@@ -12,7 +12,7 @@ A fully responsive, emotionally impactful one-page website dedicated to cancer a
   
   <div align="center">
     
-  [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-success?style=for-the-badge)]([https://google.com/](https://cancerawarness.netlify.app/))
+  [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-success?style=for-the-badge)](https://cancerawarness.netlify.app/)
   </div>
 
 ## 🌟 Features
